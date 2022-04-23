@@ -1,4 +1,4 @@
-#include "../holberton.h"
+#include "../main.h"
 #include <limits.h>
 #include <stdlib.h>
 #include <stdio.h>
