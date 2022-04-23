@@ -13,4 +13,3 @@ int percentage(__attribute__((unused))va_list param)
 	_putchar('%');
 	return (1);
 }
-
