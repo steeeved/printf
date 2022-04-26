@@ -27,7 +27,7 @@ int _printf(const char *format, ...);
     - d: converts input into a base 10 integer
     - i: converts input into an integer
 
-### [2. Just because it's in print doesn't mean it's the goespel](./man_3_printf)
+### [2. Just because it's in print doesn't mean it's the gospel](./man_3_printf)
 * Create a man page for your function
 
 
